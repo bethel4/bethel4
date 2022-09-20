@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bethel Yohannes</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 - 🌱 I’m currently learning **react native**
 
 - 👨‍💻 All of my projects are available at [https://by-protfolio.netlify.app/](https://by-protfolio.netlify.app/)
