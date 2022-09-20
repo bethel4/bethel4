@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="center" alt="Coding" width="1200" height="800" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <h1 align="center">Hi 👋, I'm Bethel Yohannes</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
